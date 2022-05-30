@@ -1,0 +1,15 @@
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\cosmi\OneDrive\Desktop\CsharpProjects\CSharp-Projects\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
